@@ -36,58 +36,55 @@ genai_and_rag/        data_engineering/       system_design/
 ▸ LLM-augmented ETL    ▸ AWS data services     ▸ scalable backend design
 ```
 
+
 <h2>⚙️ cat tech_stack.json</h2>
-
-<p align="center"><sub>hover any icon for its name</sub></p>
-
+ 
 <p align="center">
-  <img title="C++" src="https://skillicons.dev/icons?i=cpp" width="45" height="45"/>
-  <img title="Python" src="https://skillicons.dev/icons?i=py" width="45" height="45"/>
-  <img title="Java" src="https://skillicons.dev/icons?i=java" width="45" height="45"/>
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" width="45" height="45"/>
-  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="45" height="45"/>
-  <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
-  <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="45" height="45"/>
-  <img title="SQL" src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/>
+  <a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45"/></a>
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" width="45" height="45"/></a>
+  <a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45"/></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="45" height="45"/></a>
+  <a href="https://www.mysql.com" title="SQL / MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/></a>
 </p>
-
 <p align="center">
-  <img title="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/>
-  <img title="Hugging Face" src="https://skillicons.dev/icons?i=huggingface" width="45" height="45"/>
-  <img title="PyTorch" src="https://skillicons.dev/icons?i=pytorch" width="45" height="45"/>
-  <img title="Pandas" src="https://skillicons.dev/icons?i=pandas" width="45" height="45"/>
-  <img title="Streamlit" src="https://skillicons.dev/icons?i=streamlit" width="45" height="45"/>
-  <img title="R (Fuzzy Logic / Stats)" src="https://skillicons.dev/icons?i=r" width="45" height="45"/>
+  <a href="https://www.tensorflow.org" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/></a>
+  <a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45"/></a>
+  <a href="https://www.r-project.org" title="R"><img src="https://skillicons.dev/icons?i=r" width="45" height="45"/></a>
+  </p>
+<p align="center">
+  <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" width="45" height="45"/></a>
+  <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"/></a>
+  <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/></a>
+  <a href="https://spring.io" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" width="45" height="45"/></a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/></a>
+  <a href="https://threejs.org" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" width="45" height="45"/></a>
+  <a href="https://vitejs.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="45" height="45"/></a>
 </p>
-
 <p align="center">
-  <img title="React" src="https://skillicons.dev/icons?i=react" width="45" height="45"/>
-  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"/>
-  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/>
-  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" width="45" height="45"/>
-  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/>
-  <img title="Three.js" src="https://skillicons.dev/icons?i=threejs" width="45" height="45"/>
-  <img title="Vite" src="https://skillicons.dev/icons?i=vite" width="45" height="45"/>
+  <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45"/></a>
+  <!-- <a href="https://www.databricks.com" title="Databricks"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="28"/></a> -->
+  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="45" height="45"/></a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="45" height="45"/></a>
+  <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45"/></a>
+  <a href="https://www.linux.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/></a>
 </p>
-
 <p align="center">
-  <img title="AWS" src="https://skillicons.dev/icons?i=aws" width="45" height="45"/>
-  <img title="Databricks" src="https://skillicons.dev/icons?i=databricks" width="45" height="45"/>
-  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/>
-  <img title="Docker" src="https://skillicons.dev/icons?i=docker" width="45" height="45"/>
-  <img title="Git" src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
-  <img title="GitHub" src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
-  <img title="Vercel" src="https://skillicons.dev/icons?i=vercel" width="45" height="45"/>
-  <img title="Linux" src="https://skillicons.dev/icons?i=linux" width="45" height="45"/>
+  <a href="https://www.arduino.cc" title="Arduino / ESP32"><img src="https://skillicons.dev/icons?i=arduino" width="45" height="45"/></a>
+  <a href="https://www.figma.com" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/></a>
+  <a href="https://www.postman.com" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45"/></a>
+  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/></a>
+  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea" width="45" height="45"/></a>
+  <a href="https://www.latex-project.org" title="LaTeX"><img src="https://skillicons.dev/icons?i=latex" width="45" height="45"/></a>
 </p>
-
 <p align="center">
-  <img title="Arduino / ESP32" src="https://skillicons.dev/icons?i=arduino" width="45" height="45"/>
-  <img title="Figma" src="https://skillicons.dev/icons?i=figma" width="45" height="45"/>
-  <img title="Postman" src="https://skillicons.dev/icons?i=postman" width="45" height="45"/>
-  <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
-  <img title="IntelliJ IDEA" src="https://skillicons.dev/icons?i=idea" width="45" height="45"/>
-  <img title="LaTeX" src="https://skillicons.dev/icons?i=latex" width="45" height="45"/>
+  <a href="https://pandas.pydata.org" title="Pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/></a>
+  <a href="https://huggingface.co" title="Hugging Face"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28"/></a>
+  <a href="https://streamlit.io" title="Streamlit"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
 </p>
 
 <h2>🚀 cat featured_projects.sh</h2>
