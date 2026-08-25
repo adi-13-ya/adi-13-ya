@@ -102,7 +102,6 @@ adi@macbook ~/projects % ./list --featured
 | ☁️ **Cloud Misconfiguration Detector** | Fuzzy Inference System for composite AWS/Azure risk scoring (CSPM) |
 | 🏎️ **Pravega Racing Website** | Website for VIT's Formula SAE combustion team → [Check it out](https://pravega-racing.com)  | 
 | 🔐 **Quantum QKD** | Exploration of quantum key distribution — qubits, quantum gates & Bloch sphere fundamentals applied to secure key exchange |
-| ⚔️ **Demon Slayer 3D Portfolio** | Anime-themed 3D portfolio — Next.js 15, React Three Fiber, GSAP, Framer Motion |
 | 🦵 **Joint Track Knee Rehab Sleeve** | IoT rehab wearable — ESP32, MPU6050, MAX30102, DS18B20, OLED, Blynk integration |
 | 🔒 **Tamper-Evident Audit Log** | Hash-chained, tamper-evident audit logging system in Python with async SQLAlchemy |
 
