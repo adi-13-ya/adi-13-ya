@@ -40,7 +40,7 @@ genai_and_rag/        data_engineering/       system_design/
 <h2>⚙️ cat tech_stack.json</h2>
  
 <p align="center">
-  <a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45"/></a>
+  <a href="https://isocpp.org" title="C++" ><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45"/></a>
   <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" width="45" height="45"/></a>
   <a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" width="45" height="45"/></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45"/></a>
@@ -67,7 +67,7 @@ genai_and_rag/        data_engineering/       system_design/
   <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45"/></a>
   <!-- <a href="https://www.databricks.com" title="Databricks"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="28"/></a> -->
   <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/></a>
-  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/></a>
+  <a href="https://www.docker.com" title="Docker" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/></a>
   <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="45" height="45"/></a>
   <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="45" height="45"/></a>
   <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45"/></a>
